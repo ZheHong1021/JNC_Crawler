@@ -139,7 +139,6 @@ class Inspect:
             print(f'新增jnc_inspect_history資料庫發生錯誤: {e}...')
         
 
-
 def controlDevice(url, device):
     try:
         jnc_device = Device.get_Device(url) # 得到 API
@@ -156,19 +155,21 @@ def controlDevice(url, device):
     except Exception as e:
         print(f"❌【{device}】抓取設備發生錯誤: {e}")
 
+
 def controlInspect(url, device_id):
     try:
-        jnc_inspect = Inspect.get_Inspect( url )
+        jnc_inspect = Inspect.get_Inspect( url ) 
         if jnc_inspect:
             for inspect in jnc_inspect["Device"]:
                 inspect_id = Inspect.selectInspect(device_id, inspect) # 設備ID與 TagName來查找
-                if inspect_id: # 已經存在 -> 更新
-                    Inspect.updateInspect(inspect_id, inspect)
-                else: # 不存在 -> 新增
-                    inspect_id = Inspect.insertInspect(device_id, inspect)
+                print(inspect)
+                # if inspect_id: # 已經存在 -> 更新
+                #     Inspect.updateInspect(inspect_id, inspect)
+                # else: # 不存在 -> 新增
+                #     inspect_id = Inspect.insertInspect(device_id, inspect)
                 
-                # 歷史資料(持續新增)
-                Inspect.insertInspectHistory(inspect_id, inspect) 
+                # # 歷史資料(持續新增)
+                # Inspect.insertInspectHistory(inspect_id, inspect) 
         else:
             print(f"✴️【{device}】檢測數據API抓取不到資料: {e}")
     except Exception as e:
@@ -191,19 +192,19 @@ if __name__ == "__main__":
 
     map_device = {
         0: "屏南育成1-水質監測",
-        1: "向陽-義竹001養蝦廠",
-        2: "2801餵料機",
-        3: "屏南育成2/育成3-水質監測",
-        4: "1901餵料機",
-        5: "恆春",
-        6: "東後寮",
-        7: "1701餵料機",
-        8: "向陽海外泵站",
-        9: "向陽-種苗池(PCB v1.0)",
-        10: "科技養殖系統-種苗",
-        11: "屏南-育苗1",
-        12: "科技養殖系統-育苗1",
-        13: "金屬中心I6手提",
+        # 1: "向陽-義竹001養蝦廠",
+        # 2: "2801餵料機",
+        # 3: "屏南育成2/育成3-水質監測",
+        # 4: "1901餵料機",
+        # 5: "恆春",
+        # 6: "東後寮",
+        # 7: "1701餵料機",
+        # 8: "向陽海外泵站",
+        # 9: "向陽-種苗池(PCB v1.0)",
+        # 10: "科技養殖系統-種苗",
+        # 11: "屏南-育苗1",
+        # 12: "科技養殖系統-育苗1",
+        # 13: "金屬中心I6手提",
     }
 
     for id, device in map_device.items(): # id: Device資料表的 id
