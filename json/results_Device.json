@@ -1,0 +1,156 @@
+[
+    {
+        "id": 0,
+        "DeviceName": "屏南育成1-水質監測",
+        "ChannelCount": "39",
+        "JNCDevice": "I6_Web",
+        "GPSx": 120.572701810872,
+        "GPSy": 22.404709441486,
+        "Connect": 1,
+        "USB": "3",
+        "SIM": "10"
+    },
+    {
+        "id": 1,
+        "DeviceName": "向陽-義竹001養蝦廠",
+        "ChannelCount": "30",
+        "JNCDevice": "I6_Web",
+        "GPSx": 120.192424,
+        "GPSy": 23.342853,
+        "Connect": 0,
+        "USB": "0",
+        "SIM": "0"
+    },
+    {
+        "id": 2,
+        "DeviceName": "2801餵料機",
+        "ChannelCount": "21",
+        "JNCDevice": "Feeder",
+        "GPSx": 120.572701810872,
+        "GPSy": 22.404709441486,
+        "Connect": 1,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 3,
+        "DeviceName": "屏南育成2/育成3-水質監測",
+        "ChannelCount": "49",
+        "JNCDevice": "I6_Web",
+        "GPSx": 120.5727223,
+        "GPSy": 22.4047237,
+        "Connect": 1,
+        "USB": "3",
+        "SIM": "10"
+    },
+    {
+        "id": 4,
+        "DeviceName": "1901餵料機",
+        "ChannelCount": "21",
+        "JNCDevice": "Feeder",
+        "GPSx": 120.572701810872,
+        "GPSy": 22.404709441486,
+        "Connect": 1,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 5,
+        "DeviceName": "恆春",
+        "ChannelCount": "10",
+        "JNCDevice": "Weather_Station",
+        "GPSx": 120.7463,
+        "GPSy": 22.0039,
+        "Connect": 0,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 6,
+        "DeviceName": "東後寮",
+        "ChannelCount": "10",
+        "JNCDevice": "Weather_Station",
+        "GPSx": 120.2481,
+        "GPSy": 23.3699,
+        "Connect": 0,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 7,
+        "DeviceName": "1701餵料機",
+        "ChannelCount": "21",
+        "JNCDevice": "Feeder",
+        "GPSx": 120.572701810872,
+        "GPSy": 22.404709441486,
+        "Connect": 1,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 8,
+        "DeviceName": "向陽海外泵站",
+        "ChannelCount": "6",
+        "JNCDevice": "CloudBox",
+        "GPSx": 120.563,
+        "GPSy": 22.3875,
+        "Connect": 1,
+        "USB": "0",
+        "SIM": "4"
+    },
+    {
+        "id": 9,
+        "DeviceName": "向陽-種苗池(PCB v1.0)",
+        "ChannelCount": "25",
+        "JNCDevice": "CloudBox",
+        "GPSx": 120.572618289832,
+        "GPSy": 22.4046796845826,
+        "Connect": 1,
+        "USB": "2",
+        "SIM": "4"
+    },
+    {
+        "id": 10,
+        "DeviceName": "科技養殖系統-種苗",
+        "ChannelCount": "51",
+        "JNCDevice": "VirtualDevice",
+        "GPSx": 120.567033769802,
+        "GPSy": 22.4064395120529,
+        "Connect": 0,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 11,
+        "DeviceName": "屏南-育苗1",
+        "ChannelCount": "70",
+        "JNCDevice": "CloudBox",
+        "GPSx": 120.572488873247,
+        "GPSy": 22.4047683353385,
+        "Connect": 1,
+        "USB": "3",
+        "SIM": "4"
+    },
+    {
+        "id": 12,
+        "DeviceName": "科技養殖系統-育苗1",
+        "ChannelCount": "80",
+        "JNCDevice": "VirtualDevice",
+        "GPSx": 120.572536403565,
+        "GPSy": 22.4047143541088,
+        "Connect": 0,
+        "USB": "-1",
+        "SIM": "-1"
+    },
+    {
+        "id": 13,
+        "DeviceName": "金屬中心I6手提",
+        "ChannelCount": "30",
+        "JNCDevice": "I6_Web",
+        "GPSx": 120.334869087765,
+        "GPSy": 23.2521776195429,
+        "Connect": 0,
+        "USB": "0",
+        "SIM": "0"
+    }
+]

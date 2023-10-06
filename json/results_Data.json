@@ -1,0 +1,3811 @@
+[
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "2801-水尺",
+                "Unit": "公分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2801-酸鹼度",
+                "Unit": "",
+                "Value": "6.89",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2801-水溫",
+                "Unit": "°C",
+                "Value": "33.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2801-ORP",
+                "Unit": "mV",
+                "Value": "201",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2801-溶氧",
+                "Unit": "ppm",
+                "Value": "3.69",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2801-鹽度",
+                "Unit": "ppt",
+                "Value": "29.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "2802-水尺",
+                "Unit": "公分",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802-酸鹼度",
+                "Unit": "",
+                "Value": "8.19",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802-水溫",
+                "Unit": "°C",
+                "Value": "32.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802-ORP",
+                "Unit": "mV",
+                "Value": "384",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802-溶氧",
+                "Unit": "ppm",
+                "Value": "5.00",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802-鹽度",
+                "Unit": "ppt",
+                "Value": "29.2",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-13",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "101-酸鹼度",
+                "Unit": "",
+                "Value": "12.80",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "101-溶氧",
+                "Unit": "ppm",
+                "Value": "6.07",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "101-水溫",
+                "Unit": "℃",
+                "Value": "38.5",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "Skynet-溫度",
+                "Unit": "°C",
+                "Value": "25.5",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "Skynet-濕度",
+                "Unit": "%",
+                "Value": "100.0",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-19",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "102-酸鹼度",
+                "Unit": "",
+                "Value": "6.72",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "102-溶氧",
+                "Unit": "ppm",
+                "Value": "5.73",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "102-水溫",
+                "Unit": "℃",
+                "Value": "31.4",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機電流-1",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機電流-2",
+                "Unit": "A",
+                "Value": "8.6",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-25",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "103-酸鹼度",
+                "Unit": "",
+                "Value": "7.22",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "103-溶氧",
+                "Unit": "ppm",
+                "Value": "0.65",
+                "AlarmState": "LO",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "103-水溫",
+                "Unit": "℃",
+                "Value": "31.4",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "鼓風機電流-3",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-30",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802WQS-DO",
+                "Unit": "ppm",
+                "Value": "3.15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "WQS-DOTemp",
+                "Unit": "°C",
+                "Value": "31.5",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "WQS溶氧%",
+                "Unit": "%",
+                "Value": "0.00",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2802WQSpH",
+                "Unit": "pH",
+                "Value": "8.14",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "WQSpHTemp",
+                "Unit": "°C",
+                "Value": "32.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "溶氧-自清",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "pH-自清",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "指令次數",
+                "Unit": "",
+                "Value": "140",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "總壓力計",
+                "Unit": "bar",
+                "Value": "0.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3801-酸鹼度",
+                "Unit": "",
+                "Value": "7.71",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3801-氧化還原",
+                "Unit": "mv",
+                "Value": "420",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3801-溶氧",
+                "Unit": "ppm",
+                "Value": "0.00",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3801-溫度",
+                "Unit": "℃",
+                "Value": "30.2",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-5",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "蓄水池1-鹽度",
+                "Unit": "ppt",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3802-酸鹼度",
+                "Unit": "",
+                "Value": "3.15",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3802-氧化還原",
+                "Unit": "mv",
+                "Value": "17",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3802-溶氧",
+                "Unit": "ppm",
+                "Value": "0.00",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "3802-溫度",
+                "Unit": "℃",
+                "Value": "17.2",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-11",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "蓄水池2-鹽度",
+                "Unit": "ppt",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2101-酸鹼度",
+                "Unit": "",
+                "Value": "8.79",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2101-氧化還原",
+                "Unit": "mv",
+                "Value": "152",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2101-溶氧",
+                "Unit": "ppm",
+                "Value": "7.70",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2101-溫度",
+                "Unit": "℃",
+                "Value": "32.9",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-17",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "Skynet溫度",
+                "Unit": "℃",
+                "Value": "36.3",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1201-酸鹼度",
+                "Unit": "",
+                "Value": "8.53",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1201-氧化還原",
+                "Unit": "mv",
+                "Value": "208",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1201-溶氧",
+                "Unit": "ppm",
+                "Value": "8.05",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1201-溫度",
+                "Unit": "℃",
+                "Value": "31.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-23",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "Skyent溫濕度",
+                "Unit": "%",
+                "Value": "66.9",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1202-酸鹼度",
+                "Unit": "",
+                "Value": "8.41",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1202-氧化還原",
+                "Unit": "mv",
+                "Value": "251",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1202-溶氧",
+                "Unit": "ppm",
+                "Value": "7.77",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1202-溫度",
+                "Unit": "℃",
+                "Value": "29.5",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-29",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "Skynet電量",
+                "Unit": "%",
+                "Value": "90",
+                "AlarmState": "Normal",
+                "isRead": true
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "DO",
+                "isEnable": true,
+                "TagName": "餵料機",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "餵料機當前執行步驟",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "時",
+                "Value": "16",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "次",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "分",
+                "Value": "7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "秒",
+                "Value": "39",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下次投料輪次",
+                "Unit": "次",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下料時間",
+                "Unit": "秒",
+                "Value": "12",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "逆噴時間",
+                "Unit": "秒",
+                "Value": "8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鬆料時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "噴料時間",
+                "Unit": "秒",
+                "Value": "70",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "清管時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "每小時投料次數",
+                "Unit": "次",
+                "Value": "6",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "緩啟動時間",
+                "Unit": "分",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": false,
+                "TagName": "",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1701-酸鹼度",
+                "Unit": "",
+                "Value": "7.10",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1701-溶氧",
+                "Unit": "ppm",
+                "Value": "6.12",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1701-溫度",
+                "Unit": "℃",
+                "Value": "31.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "101-酸鹼度",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "101-溶氧",
+                "Unit": "ppm",
+                "Value": "0.00",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "101-溫度",
+                "Unit": "℃",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1702-酸鹼度",
+                "Unit": "",
+                "Value": "7.35",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1702-溶氧",
+                "Unit": "ppm",
+                "Value": "5.51",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1702-溫度",
+                "Unit": "℃",
+                "Value": "32.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "102-酸鹼度",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "102-溶氧",
+                "Unit": "ppm",
+                "Value": "0.00",
+                "AlarmState": "LO",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "102-溫度",
+                "Unit": "℃",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1901-酸鹼度",
+                "Unit": "",
+                "Value": "7.88",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1901-溶氧",
+                "Unit": "ppm",
+                "Value": "6.29",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1901-溫度",
+                "Unit": "℃",
+                "Value": "31.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "103-酸鹼度",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "103-溶氧",
+                "Unit": "ppm",
+                "Value": "0.00",
+                "AlarmState": "LO",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "103-溫度",
+                "Unit": "℃",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1902-酸鹼度",
+                "Unit": "",
+                "Value": "13.50",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1902-溶氧",
+                "Unit": "ppm",
+                "Value": "3.53",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1902-溫度",
+                "Unit": "℃",
+                "Value": "31.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "溫度-83",
+                "Unit": "℃",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "濁度-85",
+                "Unit": "NTU",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "鹽度-89",
+                "Unit": "ppt",
+                "Value": "0.0",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "OPA-溫度1",
+                "Unit": "℃",
+                "Value": "41.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "OPA-濕度1",
+                "Unit": "%",
+                "Value": "52.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2-1",
+                "Unit": "A",
+                "Value": "3.5",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2-2",
+                "Unit": "A",
+                "Value": "3.4",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2-3",
+                "Unit": "A",
+                "Value": "3.5",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "2-4",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1501酸鹼度",
+                "Unit": "",
+                "Value": "7.38",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1501溫度",
+                "Unit": "℃",
+                "Value": "31.6",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1501溶氧",
+                "Unit": "ppm",
+                "Value": "0.84",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1502酸鹼度",
+                "Unit": "",
+                "Value": "7.31",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1502溫度",
+                "Unit": "℃",
+                "Value": "31.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1502溶氧",
+                "Unit": "ppm",
+                "Value": "0.39",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1503酸鹼度",
+                "Unit": "",
+                "Value": "7.85",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1503溫度",
+                "Unit": "℃",
+                "Value": "32.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1503溶氧",
+                "Unit": "ppm",
+                "Value": "5.10",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1504酸鹼度",
+                "Unit": "",
+                "Value": "7.82",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1504溫度",
+                "Unit": "℃",
+                "Value": "30.7",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "1504溶氧",
+                "Unit": "ppm",
+                "Value": "0.64",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成3總壓力計",
+                "Unit": "bar",
+                "Value": "0.23",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成2總壓力計",
+                "Unit": "bar",
+                "Value": "0.1",
+                "AlarmState": "Discon",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成3鼓風機1電流",
+                "Unit": "A",
+                "Value": "3.9",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成3鼓風機2電流",
+                "Unit": "A",
+                "Value": "3.7",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成3鼓風機3電流",
+                "Unit": "A",
+                "Value": "3.0",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "育成3鼓風機4電流",
+                "Unit": "A",
+                "Value": "3.7",
+                "AlarmState": "Discon",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-49",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "DO",
+                "isEnable": true,
+                "TagName": "餵料機",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "餵料機當前執行步驟",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "時",
+                "Value": "16",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "次",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "分",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "秒",
+                "Value": "26",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下次投料輪次",
+                "Unit": "次",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下料時間",
+                "Unit": "秒",
+                "Value": "14",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "逆噴時間",
+                "Unit": "秒",
+                "Value": "11",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鬆料時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "噴料時間",
+                "Unit": "秒",
+                "Value": "75",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "清管時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "每小時投料次數",
+                "Unit": "次",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "緩啟動時間",
+                "Unit": "分",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": false,
+                "TagName": "",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "天氣",
+                "Unit": "",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "溫度",
+                "Unit": "˚C",
+                "Value": "30.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "相對濕度",
+                "Unit": "%",
+                "Value": "81",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當日累計雨量",
+                "Unit": "(毫米)",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "風向",
+                "Unit": "",
+                "Value": "270",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "風力",
+                "Unit": "(級)",
+                "Value": "2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "海平面氣壓",
+                "Unit": "(百帕)",
+                "Value": "1005",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "日照時數",
+                "Unit": "",
+                "Value": "8.6",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "天氣",
+                "Unit": "",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "溫度",
+                "Unit": "˚C",
+                "Value": "32.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "相對濕度",
+                "Unit": "%",
+                "Value": "68",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當日累計雨量",
+                "Unit": "(毫米)",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "風向",
+                "Unit": "",
+                "Value": "270",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "風力",
+                "Unit": "(級)",
+                "Value": "2",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "DO",
+                "isEnable": true,
+                "TagName": "餵料機",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "餵料機當前執行步驟",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "時",
+                "Value": "16",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "當前投料輪次",
+                "Unit": "次",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "分",
+                "Value": "6",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "倒數投料",
+                "Unit": "秒",
+                "Value": "42",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下次投料輪次",
+                "Unit": "次",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "下料時間",
+                "Unit": "秒",
+                "Value": "13",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "逆噴時間",
+                "Unit": "秒",
+                "Value": "8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鬆料時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "噴料時間",
+                "Unit": "秒",
+                "Value": "60",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "清管時間",
+                "Unit": "秒",
+                "Value": "15",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "每小時投料次數",
+                "Unit": "次",
+                "Value": "4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "啟動時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_小時",
+                "Unit": "時",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "停止時間_分鐘",
+                "Unit": "分",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "緩啟動時間",
+                "Unit": "分",
+                "Value": "3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": false,
+                "TagName": "",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "DO",
+                "isEnable": true,
+                "TagName": "380V_Pump",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DO",
+                "isEnable": true,
+                "TagName": "220V_Pump",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "380V_Pump_運轉",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "220V_Pump_運轉",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "380V_電流",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "220V_電流",
+                "Unit": "A",
+                "Value": "20.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第一池蝦Ā",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第二池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第三池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第四池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第五池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第六池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第七池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第八池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第九池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十一池蝦苗",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "總壓力計",
+                "Unit": "bar",
+                "Value": "0.00",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機電流-1",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機電流-2",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第一池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "39.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第二池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "-139.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第三池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "-138.9",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第四池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "38.5",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第五池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "38.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第六池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "38.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第七池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "38.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第八池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "39.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第九池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "39.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "39.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十一池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "38.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗1",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗2",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗3",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗4",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗5",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗6",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗7",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗8",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗9",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗10",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_養殖放苗11",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "🚨種苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "🚨屏南廠-育成1警報",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "🚨屏南廠-育成2警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "🚨屏南廠-育苗1警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "🚨屏南廠總警報",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-17",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-18",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-19",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-20",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第一池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第二池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第三池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第四池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第五池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第六池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第七池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第八池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第九池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第十池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_第十一池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-32",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-33",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-34",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "科隆-Q區室外光強度",
+                "Unit": "umol/m2*s",
+                "Value": "564",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "科隆-C區室外光強度",
+                "Unit": "umol/m2*s",
+                "Value": "558",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-37",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-38",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-39",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": false,
+                "TagName": "CH-40",
+                "Unit": "%",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗1",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗2",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗3",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗4",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗5",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗6",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗7",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗8",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗9",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗10",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "種苗_NOT蝦苗11",
+                "Unit": "",
+                "Value": "1.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第一池蝦ǰ溫度",
+                "Unit": "°C",
+                "Value": "37.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第二池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "37.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第三池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "37.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第四池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "35.9",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第五池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "39.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第六池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "37.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第七池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "35.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第八池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "35.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第九池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "35.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "32.9",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十一池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "35.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十二池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "36.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十三池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "34.5",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十四池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "31.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十五池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "32.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十六池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "30.3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十七池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "29.9",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十八池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "33.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第十九池蝦苗溫度",
+                "Unit": "°C",
+                "Value": "34.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "第二十池蝦苗溫度(暫定B4",
+                "Unit": "°C",
+                "Value": "34.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第一池蝦苗壓力計",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第二池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第三池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第四池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第五池蝦苗壓力計",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第六池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第七池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第八池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第九池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十一池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十二池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十三池蝦苗壓力計",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十四池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十五池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十六池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十七池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十八池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第十九池蝦苗壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "第二十池蝦苗壓力計",
+                "Unit": "",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "總壓力計",
+                "Unit": "bar",
+                "Value": "0.013",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機(一)",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機(二)",
+                "Unit": "A",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "鼓風機(三)",
+                "Unit": "A",
+                "Value": "2.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "氣象站溫度",
+                "Unit": "°C",
+                "Value": "39.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "氣象站濕度",
+                "Unit": "%",
+                "Value": "59.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "電量",
+                "Unit": "%",
+                "Value": "34",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "801溫度",
+                "Unit": "°C",
+                "Value": "32.3",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "802溫度",
+                "Unit": "°C",
+                "Value": "36.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "803溫度",
+                "Unit": "°C",
+                "Value": "37.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "804溫度",
+                "Unit": "°C",
+                "Value": "38.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "805溫度",
+                "Unit": "°C",
+                "Value": "34.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "806溫度",
+                "Unit": "°C",
+                "Value": "30.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "801壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "802壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "803壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "804壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "805壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "806壓力計",
+                "Unit": "%",
+                "Value": "1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "B1溫度",
+                "Unit": "°C",
+                "Value": "34.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "B2溫度",
+                "Unit": "°C",
+                "Value": "35.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "B3溫度",
+                "Unit": "°C",
+                "Value": "32.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "B4溫度",
+                "Unit": "°C",
+                "Value": "33.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "B1壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "B2壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "B3壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "DI",
+                "isEnable": true,
+                "TagName": "B4壓力計",
+                "Unit": "%",
+                "Value": "0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "CH-68",
+                "Unit": "%",
+                "Value": "34.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "CH-69",
+                "Unit": "%",
+                "Value": "16917.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "CH-70",
+                "Unit": "%",
+                "Value": "1882.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗1",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗2",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗3",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗4",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗5",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗6",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗7",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗8",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗9",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗10",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗11",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗12",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗13",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗14",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗15",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗16",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗17",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗18",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗19",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "養殖放苗20",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第1池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第2池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第3池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第4池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第5池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第6池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第7池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第8池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第9池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第10池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第11池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第12池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第13池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第14池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第15池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第16池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第17池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第18池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第19池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "VO",
+                "isEnable": true,
+                "TagName": "育苗1_第20池蝦苗_無冒泡警報",
+                "Unit": "",
+                "Value": "0.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    },
+    {
+        "Device": [
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:3",
+                "Unit": "°C",
+                "Value": "24.0",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:3",
+                "Unit": "%",
+                "Value": "83.8",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:3",
+                "Unit": "%",
+                "Value": "55",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:4",
+                "Unit": "°C",
+                "Value": "24.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:4",
+                "Unit": "%",
+                "Value": "-5.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:4",
+                "Unit": "%",
+                "Value": "61",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:5",
+                "Unit": "°C",
+                "Value": "26.2",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:5",
+                "Unit": "%",
+                "Value": "55.9",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:5",
+                "Unit": "%",
+                "Value": "100",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:6",
+                "Unit": "°C",
+                "Value": "24.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:6",
+                "Unit": "%",
+                "Value": "-1.7",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:6",
+                "Unit": "%",
+                "Value": "54",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:7",
+                "Unit": "°C",
+                "Value": "24.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:7",
+                "Unit": "%",
+                "Value": "93.4",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:7",
+                "Unit": "%",
+                "Value": "57",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:8",
+                "Unit": "°C",
+                "Value": "24.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:8",
+                "Unit": "%",
+                "Value": "92.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:8",
+                "Unit": "%",
+                "Value": "59",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:9",
+                "Unit": "°C",
+                "Value": "24.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:9",
+                "Unit": "%",
+                "Value": "82.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:9",
+                "Unit": "%",
+                "Value": "56",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:10",
+                "Unit": "°C",
+                "Value": "26.2",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:10",
+                "Unit": "%",
+                "Value": "66.0",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:10",
+                "Unit": "%",
+                "Value": "100",
+                "AlarmState": "Normal",
+                "isRead": true
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:11",
+                "Unit": "°C",
+                "Value": "24.1",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:11",
+                "Unit": "%",
+                "Value": "73.9",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:11",
+                "Unit": "%",
+                "Value": "56",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "TEMPID:12",
+                "Unit": "°C",
+                "Value": "24.2",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "RHID:12",
+                "Unit": "%",
+                "Value": "18.6",
+                "AlarmState": "Normal",
+                "isRead": false
+            },
+            {
+                "ChType": "AI",
+                "isEnable": true,
+                "TagName": "POWERID:12",
+                "Unit": "%",
+                "Value": "60",
+                "AlarmState": "Normal",
+                "isRead": false
+            }
+        ]
+    }
+]
